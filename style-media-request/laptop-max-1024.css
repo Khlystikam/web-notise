@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1024px) {
+    .web-notise-box__h1 {
+        font-size: 1.2rem;
+    }
+
+    .web-notise-app {
+        width: 90%;
+        height: 350px;
+    }
+
+    .button-slide {
+        margin: 0 10px;
+    }
+
+    .icon-edite {
+        right: 0;
+    }
+
+    .web-notise-text-box_h1 {
+        font-size: 0.9rem;
+    }
+
+    .web-notise-text-box {
+        width: 60%;
+    }
+
+    .web-notise-text-box_text, .web-notise-text-box_tag {
+        font-size: 0.8rem;
+    }
+
+    .block-button-admin {
+        width: 70%;
+    }
+}

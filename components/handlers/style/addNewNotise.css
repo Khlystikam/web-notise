@@ -1,0 +1,62 @@
+.form-edite-bg {
+    position: fixed;
+    top: 0;
+    left: 0px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: #0000008a;
+}
+
+.form-add-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.form-add-img img {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+.selected-option-box-add {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+.form-add-img {
+    padding: 10px 0;
+}
+
+.add-upload-img-button {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #799acc;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 0px #00000070;
+}
+
+
+.add-upload-img-button:hover {
+    box-shadow: 2px 2px 5px 0px #000000d0;
+    background-color: #5c79a5;
+}
+
+.add-upload-img-button:active {
+    box-shadow: 2px 2px 8px 0px #000000;
+    background-color: #8ea8cf;
+}

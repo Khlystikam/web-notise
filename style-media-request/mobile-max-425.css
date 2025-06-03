@@ -1,0 +1,51 @@
+@media only screen and (max-width: 425px) {
+    .web-notise-box {
+        height: 1200px;
+    }
+
+    .web-notise-app_block {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .container-notise {
+        width: auto;
+    }
+
+    .web-notise-white-background {
+        height: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .web-notise-text-box {
+        width: 100%;
+    }
+
+    .web-notise-text-box_h1 {
+        font-size: 0.8rem;
+    }
+
+    .web-notise-text-box_text {
+        font-size: 0.7rem;
+    }
+
+    .web-notise-text-box_tag {
+        font-size: 0.7rem;
+    }
+
+    .web-notise-img-box {
+        width: 200px;
+    }
+
+    .block-button-admin {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .button-admin {
+        width: 150px;
+        height: 50px;
+        font-size: 0.6rem;
+    }
+}

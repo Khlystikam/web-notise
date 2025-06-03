@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1440px) {
+    .web-notise-app {
+        height: 320px;
+    }
+
+    .web-notise-text-box_h1 {
+        font-size: 1.1rem;
+    }
+
+    .web-notise-text-box_text {
+        font-size: 0.9rem;
+    }
+
+    .web-notise-text-box {
+        width: 50%;
+    }
+
+    .web-notise-img-box {
+        width: 250px;
+    }
+
+    .button-admin {
+        width: 150px;
+        height: 60px;
+        font-size: 0.8rem;
+    }
+}
